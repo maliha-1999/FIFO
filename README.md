@@ -33,6 +33,7 @@
 <li>Value No. [5]: 1</li>
 </ul>
 <h4><strong>Total Number of Frames:</strong> 4</h4>
+<h2>Output will be showing full operation along with the provided inputs and the outputs</h2>
 
    
 
