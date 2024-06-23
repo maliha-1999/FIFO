@@ -1,13 +1,6 @@
 # FIFO
 <h2> Implementation of FIFO using Page Replacement Algorithm in C</h2>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FIFO (First In, First Out)</title>
-</head>
-<body>
+
     <h1>FIFO (First In, First Out)</h1>
     <p>FIFO is an acronym for First In, First Out. It is a method for processing and retrieving data where the oldest entries, or the first ones entered, are processed first. In the context of a queue, it means the element added first will be removed first.</p>
 
