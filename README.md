@@ -21,21 +21,18 @@
 <li>Customer B is served second.</li>
 <li>Customer C is served third.</li>
 </ul>
-
-    <h1>FIFO Page Replacement Algorithm</h1>
-    <h2>Inputs</h2>
-    <h4><strong>Number of Pages:</strong> 5</h4>
-    
-    <h3>Reference String Values:</h3>
-    <ul>
-        <li>Value No. [1]: 5</li>
-        <li>Value No. [2]: 4</li>
-        <li>Value No. [3]: 3</li>
-        <li>Value No. [4]: 2</li>
-        <li>Value No. [5]: 1</li>
-    </ul>
-    
-    <h4><strong>Total Number of Frames:</strong> 4</h4>
+<h1>FIFO Page Replacement Algorithm</h1>
+<h2>Inputs:</h2>
+<h4><strong>Number of Pages:</strong> 5</h4>
+<h3>Reference String Values:</h3>
+<ul>
+<li>Value No. [1]: 5</li>
+<li>Value No. [2]: 4</li>
+<li>Value No. [3]: 3</li>
+<li>Value No. [4]: 2</li>
+<li>Value No. [5]: 1</li>
+</ul>
+<h4><strong>Total Number of Frames:</strong> 4</h4>
 
    
 
