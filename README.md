@@ -1,7 +1,7 @@
 # FIFO
 <h2> Implementation of FIFO using Page Replacement Algorithm in C</h2>
 <h3>FIFO is an acronym for First In, First Out. It is a method for processing and retrieving data where the oldest entries, or the first ones entered, are processed first. In the context of a queue, it means the element added first will be removed first.</h3>
-<h2><u>Description</u></h2>
+<u><h2>Description</h2></u>
     <h3>The FIFO principle is commonly used in various computing and business scenarios where order and time of entry are crucial. For example:</h3>
     <ul>
         <li><strong>Data Structures:</strong> In queues, the element that enters first is the one that gets processed and removed first.</li>
