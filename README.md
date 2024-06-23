@@ -33,7 +33,8 @@
 <li>Value No. [5]: 1</li>
 </ul>
 <h4><strong>Total Number of Frames:</strong> 4</h4>
-<h2>Output will be showing full operation along with the provided inputs and the outputs</h2>
+<h2>Output:</h2>
+<h2></h2> Picture below will be showing full operation along with the provided inputs and the outputs</h2>
 <img src="FIFO.PNG" alt="FIFO Execution Output">
 
    
