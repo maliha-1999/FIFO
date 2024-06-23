@@ -8,20 +8,18 @@
         <li><strong>Operating Systems:</strong> FIFO scheduling algorithm where the first process to request the CPU is the first to get executed.</li>
         <li><strong>Inventory Management:</strong> Products are sold in the order they are added to inventory to ensure freshness and minimize storage time.</li>
     </ul>
+<h3>Example</h3>
+<h4>Consider a queue of customers waiting in line:</h4>
+<ul>
+<li>Customer A arrives first.</li>
+<li>Customer B arrives second.</li>
+<li>Customer C arrives third.</li>
+</ul>
+<h4>According to the FIFO principle, they will be served in the following order:</he>
+<ul>
+<li>Customer A is served first.</li>
+<li>Customer B is served second.</li>
+<li>Customer C is served third.</li>
+</ul>
 
-    <h3>Example</h3>
-    <h4>Consider a queue of customers waiting in line:</h4>
-    <ul>
-        <li>Customer A arrives first.</li>
-        <li>Customer B arrives second.</li>
-        <li>Customer C arrives third.</li>
-    </ul>
-    <p>According to the FIFO principle, they will be served in the following order:</p>
-    <ul>
-        <li>Customer A is served first.</li>
-        <li>Customer B is served second.</li>
-        <li>Customer C is served third.</li>
-    </ul>
-</body>
-</html>
 
