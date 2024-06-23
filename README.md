@@ -24,7 +24,7 @@
 
     <h1>FIFO Page Replacement Algorithm</h1>
     <h2>Inputs</h2>
-    <p><strong>Number of Pages:</strong> 5</p>
+    <h4><strong>Number of Pages:</strong> 5</h4>
     
     <h3>Reference String Values:</h3>
     <ul>
